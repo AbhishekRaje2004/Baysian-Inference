@@ -6,9 +6,9 @@ This repository contains a Bayesian analysis of survival proxies using PyMC and 
 
 - `physionet.org/files/crisdb/1.0.0/BayesianInference.ipynb`: Main Jupyter notebook containing the Bayesian analysis
 - `physionet.org/files/crisdb/1.0.0/patient_data.pkl`: Processed patient data used in the analysis
-- `physionet.org/files/rr_e/`: RR interval data for exercise condition
-- `physionet.org/files/rr_m/`: RR interval data for meditation condition
-- `physionet.org/files/rr_f/`: RR interval data for relaxation condition
+- `physionet.org/files/rr_e/`: RR interval data for e drug
+- `physionet.org/files/rr_m/`: RR interval data for m drug
+- `physionet.org/files/rr_f/`: RR interval data for f drug
 
 ## Features
 
@@ -28,4 +28,4 @@ This repository contains a Bayesian analysis of survival proxies using PyMC and 
 
 ## Usage
 
-Open the Jupyter notebook `BayesianInference.ipynb` to see the analysis and results.
+Open the Jupyter notebook `Bayesian Project` to see the analysis and results.
